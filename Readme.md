@@ -29,4 +29,4 @@ E com isso eu inauguro meus primeiros comandos no Git :
 ... dentre outros. :)
 
 Bem-vinda ao Git e Github Marcela!
-<img scr="https://www.napratica.org.br/wp-content/uploads/2021/06/github.jpg">
+<img scr="https://pngimg.com/uploads/github/small/github_PNG93.png">
