@@ -30,3 +30,4 @@ E com isso eu inauguro meus primeiros comandos no Git :
 
 Bem-vinda ao Git e Github Marcela!
 <img scr="https://pngimg.com/uploads/github/small/github_PNG93.png">
+<img src="https://i1.wp.com/www.markus-gattol.name/misc/mm/si/content/git_git_add.png">
